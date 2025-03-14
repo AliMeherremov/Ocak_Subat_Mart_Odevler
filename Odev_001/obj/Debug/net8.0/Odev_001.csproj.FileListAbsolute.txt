@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\Odev_001\Odev_001\bin\Debug\net8.0\Odev_001.exe
+C:\Users\meher\source\repos\Odev_001\Odev_001\bin\Debug\net8.0\Odev_001.deps.json
+C:\Users\meher\source\repos\Odev_001\Odev_001\bin\Debug\net8.0\Odev_001.runtimeconfig.json
+C:\Users\meher\source\repos\Odev_001\Odev_001\bin\Debug\net8.0\Odev_001.dll
+C:\Users\meher\source\repos\Odev_001\Odev_001\bin\Debug\net8.0\Odev_001.pdb
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.AssemblyInfo.cs
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.dll
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\refint\Odev_001.dll
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.pdb
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\Odev_001.genruntimeconfig.cache
+C:\Users\meher\source\repos\Odev_001\Odev_001\obj\Debug\net8.0\ref\Odev_001.dll
